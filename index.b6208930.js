@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(){var e=function(){var e=t[n];d.setAttribute("class",e)},t=["slider slider__bg-img--1","slider slider__bg-img--2","slider slider__bg-img--3","slider slider__bg-img--4"],n=0,d=document.getElementById("slider"),i=document.getElementById("prevBtn"),l=document.getElementById("nextBtn");i.addEventListener("click",function(){n=n>0?n-1:t.length-1,e()}),l.addEventListener("click",function(){n=n<t.length-1?n+1:0,e()}),e()});
+//# sourceMappingURL=index.b6208930.js.map

@@ -2,7 +2,7 @@
 
 This project implements a landing page based on a [Figma design](<https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35>), utilizing BEM and SCSS methodologies.
 
-[View Demo]([https://srtrace.github.io/layout_dia/](https://srtrace.github.io/Air-landing/) | [Project Repository](https://github.com/yourusername/air-agency-landing-page)
+[View Demo](https://srtrace.github.io/layout_dia/](https://srtrace.github.io/Air-landing/) | [Project Repository](https://github.com/yourusername/air-agency-landing-page)
 
 ## Project Goals
 

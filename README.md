@@ -42,10 +42,55 @@ In this project, SCSS has been used to enhance the styling process with the foll
 - **Variables**: To store values that you reuse throughout your CSS.
 - **Style Blocking**: To keep styles organized and specific to blocks.
 
+## How to Run the Project Locally
+
+To run this project on your local machine, follow these steps:
+
+1. **Clone the repository**:
+  ```bash
+  git clone https://github.com/SrTrace/Air-landing.git
+  ```
+
+2. **Navigate to the project directory**:
+
+  ```bash
+  cd Air-landing
+  ```
+
+3. **Install dependencies**:
+
+  ```bash
+  npm install
+  ```
+
+or
+
+  ```bash
+  yarn install
+  ```
+
+4. **Run the project**:
+
+    If you are using a local server setup like `Live Server` in VS Code or a simple HTTP server, start it to view the project. Alternatively, if your project uses a specific build or start command, run:
+
+    ```bash
+    npm start
+    ```
+
+    or
+
+    ```bash
+    yarn start
+    ```
+
+5. **Open the project in your browser**:
+
+    Visit `http://localhost:3000` (or the port specified by your server) to see the landing page in action.
+
 ## Demo
 
-You can view the final result on the [Demo Link](https://srtrace.github.io/layout_dia/).
+You can view the final result on the [View Demo](https://srtrace.github.io/Air-landing/).
 
 ## Project Link
 
-[https://github.com/yourusername/air-agency-landing-page](https://github.com/yourusername/air-agency-landing-page)
+[Project Repository](https://github.com/yourusername/air-agency-landing-page)
